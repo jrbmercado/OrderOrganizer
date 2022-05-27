@@ -17,6 +17,7 @@ public class Interface {
 		System.out.println("There are " + numPeople+ " members in your party");
 		
 		// Fill the HashSet with Names
+		// Test Commit
 		
 		
 		
