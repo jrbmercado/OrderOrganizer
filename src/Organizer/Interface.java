@@ -3,7 +3,7 @@ package Organizer;
 public class Interface {
 
 	public static void main(String[] args) {
-		System.out.println("Hello!");
+		System.out.println("Wow!");
 
 	}
 
